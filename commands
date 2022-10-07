@@ -1,0 +1,5 @@
+git clone https//..... 	
+git add "nom de fichier 
+git add . 
+git commit -m "mon du comit"
+git puch 
