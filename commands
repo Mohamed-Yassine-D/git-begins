@@ -3,3 +3,10 @@ git add "nom de fichier
 git add . 
 git commit -m "mon du comit"
 git puch 
+
+les commad de pull
+git status
+git fecth
+git status 
+git pull
+
